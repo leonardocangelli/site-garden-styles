@@ -1,0 +1,111 @@
+body {
+    background-color: #95bb98;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    font-size: 20px;
+    font-family: 'poppins';
+}
+
+.table-content {
+    width: 100%;
+}
+
+.header {
+    text-align: center;
+}
+
+.text-content {
+    text-align: center;
+}
+
+.text-content-left {
+    text-align: left;
+}
+
+.text-content-right {
+    text-align: right;
+}
+
+.img-header {
+    width: 800px;
+    margin: 10px;
+}
+
+.content-first {
+    padding: 10px;
+    background: white;
+    color: #3b533d;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.content-second {
+    padding: 10px;
+    background: #95bb98;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.grid-left {
+    text-align: left;
+}
+
+.grid-center {
+    text-align: center;
+}
+
+.grid-content-space-left {
+    padding-left: 10px;
+}
+
+.grid-content-space-right {
+    padding-right: 10px;
+}
+
+.form {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+}
+
+.form input {
+    border: none;
+    border-radius: 20px;
+    width: 200px;
+    height: 25px;
+    padding: 10px;
+    margin: 5px;
+}
+
+.form textarea {
+    width: 300px;
+    margin-top: 5px;
+    height: 150px;
+    padding: 10px;
+    border-radius: 20px;
+    border: none;
+    text-align: center;
+}
+
+.form button {
+    border: none;
+    border-radius: 20px;
+    width: 100px;
+    height: 50px;
+    padding: 3px;
+}
+
+.form button:hover {
+    cursor: pointer;
+    color: #fff;
+    background-color: #000;
+}
+
+.footer {
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
